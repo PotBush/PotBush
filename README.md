@@ -1,5 +1,5 @@
 
-### Developer, Hacker & Open Source Enthusiast
+### Developer & Open Source Enthusiast
 Welcome to my GitHub profile! I'm a passionate developer with a deep love for hacking and open-source technologies. My expertise spans a variety of programming languages, system configurations, and software development tools. Below is a brief overview of my skills and interests.
 
 ![C#]( https://img.shields.io/badge/C%23_Csharp-6A49DC?style=for-the-badge)
