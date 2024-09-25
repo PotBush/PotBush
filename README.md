@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep love for ha
 
 ## 📊 GitHub Stat
 
-![](https://github-readme-stats.vercel.app/api?username=PotBush&theme=dark&hide_border=false&include_all_commits=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=PotBush&theme=dark&hide_border=false)<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PotBush&theme=dark&hide_border=false)<br>
 
